@@ -10,7 +10,7 @@ node app.js
 
 
 ## Details
-It was my first Node Js project, which took me an week to complete.
+It was my first Node Js project, which took me a week to complete.
 
 The frontend is build using Sematic UI
 
