@@ -14,5 +14,4 @@ It was my first Node Js project, which took me an week to complete.
 
 The frontend is build using Sematic UI
 
-
-![GitHub all releases](https://img.shields.io/github/downloads/ayushsoni1001/blogapp/total?color=success&label=ayushsoni1001&logo=github&style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/ayushsoni1001/nodejs-blog-cms/total?color=success&label=ayushsoni1001&logo=github&style=for-the-badge)
